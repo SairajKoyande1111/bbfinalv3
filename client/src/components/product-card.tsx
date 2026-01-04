@@ -17,7 +17,7 @@ export default function ProductCard({ item }: ProductCardProps) {
 
   return (
     <div className="flex flex-col overflow-hidden h-full" style={{ borderRadius: 0 }}>
-      <div className="relative aspect-[4/3] w-full overflow-hidden mb-3">
+      <div className="relative aspect-[4/3] w-full overflow-hidden mb-1">
         <img
           src={imageUrl}
           alt={item.name}
@@ -34,7 +34,7 @@ export default function ProductCard({ item }: ProductCardProps) {
 
       <div className="flex flex-col flex-1">
         <h3
-          className="text-base sm:text-lg font-bold leading-tight mb-0.5 line-clamp-2"
+          className="text-base sm:text-lg font-bold leading-tight mb-0 line-clamp-2"
           style={{ 
             color: '#C9A55C', 
             fontFamily: "'Cormorant Garamond', serif",
@@ -48,7 +48,7 @@ export default function ProductCard({ item }: ProductCardProps) {
           {item.name}
         </h3>
         <p
-          className="text-xs sm:text-sm leading-relaxed mb-3 line-clamp-2"
+          className="text-xs sm:text-sm leading-relaxed mb-1 line-clamp-2"
           style={{ 
             color: '#FFFFFF',
             fontFamily: "'Lato', sans-serif",
