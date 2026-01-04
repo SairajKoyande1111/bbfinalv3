@@ -38,6 +38,7 @@ declare global {
 }
 
 import logoImg from "@assets/Untitled_design_(20)_1765720426678.png";
+import mangaloreanImg from "@assets/image_1767538398708.png";
 import signatureMocktailsImg from "@assets/image_1765865243299.png";
 import softBeveragesImg from "@assets/image_1765865174044.png";
 import fallbackImg from "@assets/coming_soon_imagev2_1766811809828.jpg";
@@ -121,7 +122,7 @@ const subcategoryImages: Record<string, string> = {
   dals: dalsImg,
   breads: breadsImg,
   "asian-mains": asianMainsImg,
-  "mangalorean-style": curriesImg,
+  "mangalorean-style": mangaloreanImg,
   wok: asianMainsImg,
   continental: continentalImg,
   "artisan-pizzas": pizzaImg,
