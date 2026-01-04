@@ -64,10 +64,10 @@ import titbitsImg from "@assets/image_1767538122517.png";
 import soupsImg from "@assets/image_1765861784186.png";
 import saladsImg from "@assets/image_1767538266582.png";
 import startersImg from "@assets/image_1765862083770.png";
-import charcoalImg from "@assets/image_1765862103291.png";
-import pastaImg from "@assets/image_1765862151515.png";
-import pizzaImg from "@assets/image_1765862533698.png";
-import slidersImg from "@assets/image_1765862611064.png";
+import charcoalImg from "@assets/image_1767539363565.png";
+import pastaImg from "@assets/image_1767539686923.png";
+import pizzaImg from "@assets/image_1767539726872.png";
+import slidersImg from "@assets/image_1767539763570.png";
 import entreeImg from "@assets/image_1765862689473.png";
 import baoDimsumImg from "@assets/image_1765862739110.png";
 import curriesImg from "@assets/image_1767538398708.png";
@@ -76,6 +76,7 @@ import riceImg from "@assets/image_1765862832303.png";
 import dalsImg from "@assets/image_1765862864030.png";
 import breadsImg from "@assets/image_1765862911256.png";
 import asianMainsImg from "@assets/image_1767538522331.png";
+import continentalImg from "@assets/image_1767539626901.png";
 import thaiBowlsImg from "@assets/image_1765862959084.png";
 import riceNoodlesImg from "@assets/image_1765862986138.png";
 import sizzlersImg from "@assets/image_1765863042831.png";
@@ -122,6 +123,9 @@ const subcategoryImages: Record<string, string> = {
   "asian-mains": asianMainsImg,
   "mangalorean-style": curriesImg,
   wok: asianMainsImg,
+  continental: continentalImg,
+  "artisan-pizzas": pizzaImg,
+  "mini-burger-sliders": slidersImg,
   "thai-bowls": thaiBowlsImg,
   "rice-noodles": riceNoodlesImg,
   sizzlers: sizzlersImg,
