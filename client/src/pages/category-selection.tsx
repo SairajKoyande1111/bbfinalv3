@@ -60,7 +60,7 @@ import dessertWinesImg from "@assets/image_1765864417149.png";
 import portWineImg from "@assets/image_1765864441224.png";
 
 import nibblesImg from "@assets/image_1767537969124.png";
-import titbitsImg from "@assets/image_1765861734899.png";
+import titbitsImg from "@assets/image_1767538122517.png";
 import soupsImg from "@assets/image_1765861784186.png";
 import saladsImg from "@assets/image_1765861993529.png";
 import startersImg from "@assets/image_1765862083770.png";
