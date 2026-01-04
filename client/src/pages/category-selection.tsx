@@ -70,7 +70,7 @@ import pizzaImg from "@assets/image_1767539726872.png";
 import slidersImg from "@assets/image_1767539763570.png";
 import entreeImg from "@assets/image_1767540494821.png";
 import baoDimsumImg from "@assets/image_1767540547633.png";
-import curriesImg from "@assets/image_1767540699691.png";
+import curriesImg from "@assets/image_1767544842804.png";
 import biryaniImg from "@assets/image_1767540755506.png";
 import riceImg from "@assets/image_1765862832303.png";
 import dalsImg from "@assets/image_1767540786968.png";
